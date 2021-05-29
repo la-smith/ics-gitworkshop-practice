@@ -1,6 +1,7 @@
 # ics-gitworkshop-practice
 <<<<<<< HEAD
 Hello
+^0^
 =======
 
 hello, this is a text from spabolu
